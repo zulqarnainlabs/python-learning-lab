@@ -1,0 +1,1 @@
+Hi this is python learning lab's note manager project.
